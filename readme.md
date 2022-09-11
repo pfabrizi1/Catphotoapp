@@ -1,0 +1,1 @@
+This was my first HTML project completed using Freecodecamp, copied to VS Code and learning to utilize Git/Github
